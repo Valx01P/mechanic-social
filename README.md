@@ -1,5 +1,5 @@
 # Mechanic Social
-A full-stack application for mechanics to connect and share resources.
+A full-stack application to help people find and connect with mechanics near them for quotes and services.
 
 ### Setup
 ```bash
