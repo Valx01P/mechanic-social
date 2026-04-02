@@ -50,9 +50,6 @@ export default function Header() {
               {link.label}
             </Link>
           ))}
-          <Button asChild size="sm">
-            <Link href="/mechanics">Find a Mechanic</Link>
-          </Button>
         </nav>
 
         {/* Mobile nav */}
@@ -87,11 +84,6 @@ export default function Header() {
                   {link.label}
                 </Link>
               ))}
-              <Button asChild className="mt-4">
-                <Link href="/mechanics" onClick={() => setOpen(false)}>
-                  Find a Mechanic
-                </Link>
-              </Button>
             </nav>
           </SheetContent>
         </Sheet>
