@@ -4,28 +4,30 @@ import { Separator } from "@/components/ui/separator"
 
 const teamMembers = [
   {
-    name: "Alexandra Chen",
-    role: "Co-Founder & CEO",
+    name: "Carlos Melicandia",
+    role: "Co-Founder",
     image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&h=200&fit=crop&auto=format",
     bio: "Former automotive engineer with a passion for making car care transparent and accessible.",
-  },
-  {
-    name: "Michael Torres",
-    role: "Co-Founder & CTO",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&h=200&fit=crop&auto=format",
-    bio: "Full-stack engineer who built his first app in his garage. Loves cars and clean code equally.",
-  },
-  {
-    name: "Samantha Wright",
-    role: "Head of Operations",
-    image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&h=200&fit=crop&auto=format",
-    bio: "Operations guru with a background in logistics and marketplace management.",
-  },
-  {
-    name: "David Park",
-    role: "Head of Mechanic Relations",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&h=200&fit=crop&auto=format",
-    bio: "Former master mechanic turned community builder. Advocates for fair pay and transparency.",
+  },{
+    name: "Pablo",
+    role: "Co-Founder",
+    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&h=200&fit=crop&auto=format",
+    bio: "Former automotive engineer with a passion for making car care transparent and accessible.",
+  },{
+    name: "Zach",
+    role: "Co-Founder",
+    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&h=200&fit=crop&auto=format",
+    bio: "Former automotive engineer with a passion for making car care transparent and accessible.",
+  },{
+    name: "Moises",
+    role: "Co-Founder",
+    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&h=200&fit=crop&auto=format",
+    bio: "Former automotive engineer with a passion for making car care transparent and accessible.",
+  },{
+    name: "Lester",
+    role: "Co-Founder",
+    image: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=200&h=200&fit=crop&auto=format",
+    bio: "Former automotive engineer with a passion for making car care transparent and accessible.",
   },
 ]
 
